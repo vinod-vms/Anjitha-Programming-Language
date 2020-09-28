@@ -12,3 +12,8 @@ Interpreted multi-paradigm
 ## Contribute
 I'm open to your suggestions, ideas, and code though all pull requests might not be accepted.
 
+## License
+GPL 
+
+## Creator
+Vinod Mathew Sebastian
