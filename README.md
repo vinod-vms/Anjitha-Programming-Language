@@ -4,7 +4,7 @@ Building a Turing-complete programming language
 ## Language Type
 Interpreted
 
-Since the language is interpreted, runtime performance is important. So it will be written primarily in C and Assembly.
+Since the language is interpreted, runtime performance is important. So it is being written primarily in C and Assembly.
 
 ## Paradigms
 Interpreted multi-paradigm
