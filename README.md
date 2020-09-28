@@ -16,4 +16,4 @@ I'm open to your suggestions, ideas, and code though all pull requests might not
 GPL 
 
 ## Creator
-Vinod Mathew Sebastian
+&copy; Vinod Mathew Sebastian
